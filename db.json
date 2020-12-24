@@ -1,0 +1,72 @@
+{
+    "api": [
+        {
+            "in": [
+                {
+                    "type": "String",
+                    "name": "myName",
+                    "value": "myValue"
+                    
+                },
+                {
+                    "type": "String2",
+                    "name": "myName2",
+                    "value": "myValue2"
+                    
+                }
+            ],
+            "out": [
+                {
+                    "type": "String",
+                    "name": "myName",
+                    "value": "myValue"
+                    
+                },
+                {
+                    "type": "String2",
+                    "name": "myName2",
+                    "value": "myValue2"
+                    
+                }
+            ],
+            "json": [
+                {
+                    "type": "String",
+                    "name": "myName",
+                    "value": "myValue"
+                    
+                },
+                {
+                    "type": "String2",
+                    "name": "myName2",
+                    "value": "myValue2"
+                    
+                }
+            ],
+            "card": {
+                "params": [
+                    {
+                    "id": 1,
+                    "label": "page"
+                },
+                {
+                    "id": 2,
+                    "label": "modal"
+                }
+            ]
+            },
+            "components": [
+                {
+                "id": 1,
+                "name": "teste1",
+                "label": "teste1"
+            },
+            {
+                "id": 2,
+                "name": "teste2",
+                "label": "teste2"
+            }
+        ]
+        }
+    ]
+  }
